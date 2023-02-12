@@ -7,3 +7,4 @@ print("Hello Word!", "I want this to be on the same line as the one above", sep=
 # a="sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss"
 # b="ccccccccc"
 # print(a,b, sep='')
+print("gigi")
